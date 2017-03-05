@@ -50,7 +50,7 @@ $vehrow = mysql_fetch_array($vehquery);
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>MPRPC | PNC</title>
+  <title>PNC</title>
   <!-- Tell the browser to be responsive to screen width -->
   <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
   <!-- Bootstrap 3.3.6 -->
@@ -87,7 +87,7 @@ $vehrow = mysql_fetch_array($vehquery);
       <!-- mini logo for sidebar mini 50x50 pixels -->
       <span class="logo-mini"><b>PNC     </b></span>
       <!-- logo for regular state and mobile devices -->
-      <span class="logo-lg">MPRPC<b>PNC</b></span>
+      <span class="logo-lg">RADDZ<b>PNC</b></span>
     </a>
 
     <!-- Header Navbar -->
@@ -334,10 +334,10 @@ elseif ($_GET['type'] == 'vehicle') {
   <footer class="main-footer">
     <!-- To the right -->
     <div class="pull-right hidden-xs">
-      MPRPC Systems
+      Raddz
     </div>
     <!-- Default to the left -->
-    <strong>Copyright &copy; 2017 <a href="https://radley.xyz">James Radley</a> for MetPoliceRPC.</strong> All rights reserved.
+    <strong>Copyright &copy; 2017 <a href="https://radley.xyz">James Radley</a></strong> All rights reserved.
   </footer>
   <!-- /.control-sidebar -->
   <!-- Add the sidebar's background. This div must be placed

@@ -295,7 +295,7 @@ elseif ($_GET['type'] == 'vehicle') {
                 <button type="submit" class="btn btn-primary">Submit</button>
               </div>
 
-              <CENTER> <h3>This system is being monitered. Please <STRONG>NOTE</STRONG> Everything you do is logged. </h3></CENTER> <br />
+              <CENTER> <h3>This system is being monitored. Please <STRONG>NOTE</STRONG> Everything you do is logged. </h3></CENTER> <br />
               </form>
       </div>
     </div>
